@@ -1,2 +1,1 @@
-# obereg_a
-Web-site for OBEREG A
+# My code for web-site [Obereg A](https://oberega.by/)
